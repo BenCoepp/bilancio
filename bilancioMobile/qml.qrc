@@ -1,0 +1,25 @@
+<RCC>
+    <qresource prefix="/main">
+        <file>main.qml</file>
+    </qresource>
+    <qresource prefix="/loadMAIN">
+        <file>loadPage.qml</file>
+        <file>mainWindow.qml</file>
+    </qresource>
+    <qresource prefix="/pages">
+        <file>overviewPage.qml</file>
+        <file>expansesPage.qml</file>
+        <file>loanPage.qml</file>
+        <file>sparschwein.qml</file>
+    </qresource>
+    <qresource prefix="/res">
+        <file>Database.js</file>
+        <file>57562.png</file>
+        <file>4213447-arrow-load-loading-refresh-reload-restart-sync_115423.png</file>
+        <file>4634974-wallet_122528.png</file>
+        <file>4634978-pig_122530.png</file>
+        <file>4634993-coins_122539.png</file>
+        <file>4634995-coin_122541.png</file>
+        <file>Square150x150Logo.png</file>
+    </qresource>
+</RCC>
